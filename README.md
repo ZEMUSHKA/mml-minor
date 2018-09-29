@@ -1,2 +1,2 @@
-# mml-minor-2017
+# mml-minor-2018
 Modern Machine Learning Minor at HSE
